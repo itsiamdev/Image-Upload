@@ -3,7 +3,7 @@
 A simple and intuitive web application that allows users to upload and display images directly in their browser. Perfect for quick image previews and sharing! 🚀
 
 ## 🌐 Live Demo
-Check out the live version here: [https://iam269.github.io/Image-Upload/](https://iam269.github.io/Image-Upload/)
+Check out the live version here: [https://itsiamdev.github.io/Image-Upload/](https://itsiamdev.github.io/Image-Upload/)
 
 ## ✨ Features
 - 📁 Easy file selection with drag-and-drop support
